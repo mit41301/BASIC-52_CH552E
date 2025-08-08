@@ -24,5 +24,3 @@
 200    PRINT TIME
 210    GOTO 10
 220    END
-
-
